@@ -5,6 +5,7 @@ export class Student {
     GPA: number;
     Major: string;
     Year: string;
-    SAT: number; //added SAT
+    SAT: number; 
+    Active:boolean; //added this 
     
 }
