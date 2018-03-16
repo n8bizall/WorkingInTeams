@@ -5,7 +5,6 @@ export class Student {
     GPA: number;
     Major: string;
     Year: string;
-    constructor(parameters) {
-        
-    }
+    SAT: number; //added SAT
+    
 }
